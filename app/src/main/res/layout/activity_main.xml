@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:text="TRAGA MONEDAS"
+        android:textColor="@color/orange"
         android:textAlignment="center"
         android:textSize="35sp"
         android:textStyle="bold"
@@ -73,6 +74,7 @@
         android:layout_height="40dp"
         android:layout_marginTop="20dp"
         android:text="RESULTADO"
+        android:textColor="@color/orange"
         android:textAlignment="center"
         android:textSize="25sp"
         android:textStyle="bold"
@@ -93,6 +95,7 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/play_btn"
+        android:backgroundTint="#ed217c"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:text="JUGAR"
